@@ -1,0 +1,26 @@
+{
+  "homepage": "https://mwintrow.github.io/React-Query-blog-Russian-translation-",
+  "name": "reactqueryblog_russian",
+  "version": "1.0.0",
+  "description": "ReactQuery blog Russian translation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwintrow/React-Query-blog-Russian-translation-.git"
+  },
+  "author": "Mitchell Wintrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwintrow/React-Query-blog-Russian-translation-/issues"
+  },
+  "homepage": "https://github.com/mwintrow/React-Query-blog-Russian-translation-#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
