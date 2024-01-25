@@ -1,1 +1,1 @@
-# React-Query-blog-Russian-translation-
+# React Query blog (Russian translation)
