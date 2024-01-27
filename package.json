@@ -1,8 +1,8 @@
 {
-  "homepage": "https://mwintrow.github.io/React-Query-blog-Russian-translation-",
+  "homepage": "https://mwintrow.github.io/React-Query-blog-Hebrew-translation-",
   "name": "reactqueryblog_russian",
   "version": "1.0.0",
-  "description": "ReactQuery blog Russian translation",
+  "description": "ReactQuery blog Hebrew translation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mwintrow/React-Query-blog-Russian-translation-.git"
+    "url": "git+https://github.com/mwintrow/React-Query-blog-Hebrew-translation-.git"
   },
   "author": "Mitchell Wintrow",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mwintrow/React-Query-blog-Russian-translation-/issues"
+    "url": "https://github.com/mwintrow/React-Query-blog-Hebrew-translation-/issues"
   },
-  "homepage": "https://github.com/mwintrow/React-Query-blog-Russian-translation-#readme",
+  "homepage": "https://github.com/mwintrow/React-Query-blog-Hebrew-translation-#readme",
   "dependencies": {},
   "devDependencies": {
     "gh-pages": "^6.1.1"
